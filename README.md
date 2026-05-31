@@ -1,8 +1,8 @@
 # Battle Bee Game Tracker
 
-**MTG Commander Life Tracker for iOS**
+**Commander Format Life Tracker for iOS**
 
-Battle Bee Game Tracker is a life tracking app for Magic: The Gathering Commander games — built for the table, designed for 2, 4, or 6 players.
+Battle Bee Game Tracker is a life tracking app for Commander format card games — built for the table, designed for 2, 4, or 6 players.
 
 ---
 
