@@ -6,7 +6,7 @@
 Battle Bee Game Tracker
 
 ## Subtitle (30 chars max)
-MTG Commander Life Tracker
+Commander Format Life Tracker
 
 ## Category
 Games → Card Games
@@ -18,7 +18,7 @@ Utilities
 
 ## Description (4000 chars max)
 
-Battle Bee Game Tracker is the ultimate life tracker for Magic: The Gathering Commander games — built for the table, designed for four players.
+Battle Bee Game Tracker is the ultimate life tracker for Commander format card games — built for the table, designed for four players.
 
 **Track everything that matters**
 Keep life totals, poison counters, and commander damage for every player at once — all on one screen. No more paper, no more confusion.
@@ -52,7 +52,7 @@ Use the built-in finger chooser — every player puts a finger on the screen and
 ---
 
 ## Keywords (100 chars max, comma-separated)
-MTG,Commander,life tracker,magic gathering,EDH,card game,life counter,poison,commander damage
+Commander,life tracker,card game,EDH,life counter,poison,commander damage,tabletop,multiplayer
 
 ---
 
@@ -79,10 +79,10 @@ Free
 ---
 
 ## Support URL
-https://github.com/[your-username]/battle-bee-game-tracker (or your website)
+https://github.com/BattleBeeGames/BattleBeeGameTracker
 
 ## Privacy Policy URL
-https://[your-username].github.io/battle-bee-game-tracker/privacy-policy.html
+https://battlebeegames.github.io/BattleBeeGameTracker/privacy-policy.html
 
 ---
 
