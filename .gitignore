@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.DS_Store
+
+# Capacitor / Xcode
+ios/App/Pods/
+ios/App/App/public/
+ios/App/DerivedData/
+ios/App/build/
+*.xcuserdatad/
+xcuserdata/
+
+# Local scratch
+nuke-picker.html
