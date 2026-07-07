@@ -1,14 +1,41 @@
 node_modules/
 dist/
-.DS_Store
 
 # Capacitor / Xcode
 ios/App/Pods/
 ios/App/App/public/
 ios/App/DerivedData/
 ios/App/build/
+DerivedData/
 *.xcuserdatad/
 xcuserdata/
+*.pbxuser
+!default.pbxuser
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.xcarchive
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+Pods/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# TestFlight / App Store
+*.dSYM.zip
+*.dSYM
 
 # Local scratch
 nuke-picker.html
